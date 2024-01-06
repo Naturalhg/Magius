@@ -11,7 +11,7 @@ Afin de jouer, vous aurez besoin d'un interpréteur python (par exemple thonny) 
 
 Pour se faire, les instructions suivantes sont possibles :
 
-Télécharger l'intégralité des fichiers dans ce git en cliquant sur l'icône vert "<> Code" (en haut à droite) : 
+Télécharger l'intégralité des fichiers dans ce git en cliquant sur l'icône vert "<> Code" (en haut à droite), puis "Download ZIP" tout en bas.
 
 Installer interpréteur Python et installer PyCharm.
 Cette vidéo peut aider à y parvenir rapidement : https://www.youtube.com/watch?v=mls5s8RAefI
