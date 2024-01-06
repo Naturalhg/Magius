@@ -20,11 +20,17 @@ Cette vidéo peut aider à y parvenir rapidement : https://www.youtube.com/watch
 
 Après la création d'un projet PyCharm, dans le terminal du projet pycharm (icône en bas à gauche) :
 
-	Installer pygame : pip install pygame
+Installer pygame : 
 
-	Installer pytmx : pip install pytmx
+	pip install pygame
 
-	Installer pyscroll : pip install pyscroll
+Installer pytmx : 
+
+ 	pip install pytmx
+
+Installer pyscroll : 
+
+	pip install pyscroll
 
 Téléverser les fichiers python ".py" (5 en tout) du dossier "projet" dans la partie droite de l'écran, le code des fichiers apparaît sur l'écran.
 
