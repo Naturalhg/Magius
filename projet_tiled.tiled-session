@@ -1,0 +1,240 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
+    "fileStates": {
+        "C:/projet/texture/escaliers.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/_aa nsi/projet/map.tmx": {
+            "scale": 0.35209375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 802.3431259430196,
+                "y": 802.3431259430196
+            }
+        },
+        "D:/_aa nsi/projet/map.tmx#city_package_all": {
+            "scaleInDock": 1
+        },
+        "D:/_aa nsi/projet/texture/city_package_all.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/_aa nsi/projet/texture/escaliers.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/_aa nsi/projet/texture/interieur.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/_aa nsi/projet/texture/market.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/_aa nsi/projet/texture/murs.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/_aa nsi/projet/texture/objets.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/_aa nsi/projet/texture/ombres_objets.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/_aa nsi/projet/texture/ombres_plantes.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/_aa nsi/projet/texture/plantes2.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/_aa nsi/projet/texture/sakura.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/_aa nsi/projet/texture/sakuras.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/_aa nsi/projet/texture/sol.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/_aa nsi/projet/texture/sol_pierre.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/_aa nsi/projet/texture/tree_house.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/_aa nsi/projet/texture/village_house.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/_aa nsi/projet/texture/village_villas.tsx": {
+            "scaleInDock": 1
+        },
+        "aventurier_1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aventurier_3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "inside_house.tmx": {
+            "scale": 1.1736458333333333,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 237.7207774917902,
+                "y": 230.47838821336646
+            }
+        },
+        "mairie.tmx": {
+            "scale": 1.7604687499999998,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 253.90964764356087,
+                "y": 160.4686251886039
+            }
+        },
+        "map UPDATED.tmx": {
+            "scale": 0.35209375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 744.1199964498094,
+                "y": 802.3431259430196
+            }
+        },
+        "map.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 11,
+            "viewCenter": {
+                "x": 487.3333333333333,
+                "y": 333.66666666666663
+            }
+        },
+        "map.tmx#city_package_all": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "market1.tmx": {
+            "scale": 1.7604687499999998,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 115.87822845477946,
+                "y": 160.4686251886039
+            }
+        },
+        "market2.tmx": {
+            "scale": 1.7604687499999998,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 142.00763291026894,
+                "y": 166.14893050501468
+            }
+        },
+        "texture/city_package_all.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "texture/escaliers.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "texture/furniture_house.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "texture/interieur.tsx": {
+            "scaleInDock": 0.75
+        },
+        "texture/market.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "texture/murs.tsx": {
+            "scaleInDock": 1
+        },
+        "texture/objets.tsx": {
+            "scaleInDock": 1
+        },
+        "texture/ombres_objets.tsx": {
+            "scaleInDock": 1
+        },
+        "texture/ombres_plantes.tsx": {
+            "scaleInDock": 1
+        },
+        "texture/plantes2.tsx": {
+            "scaleInDock": 1
+        },
+        "texture/sakura.tsx": {
+            "scaleInDock": 1
+        },
+        "texture/sakuras.tsx": {
+            "scaleInDock": 1
+        },
+        "texture/sol.tsx": {
+            "scaleInDock": 1
+        },
+        "texture/sol_pierre.tsx": {
+            "scaleInDock": 1
+        },
+        "texture/tree_house.tsx": {
+            "scaleInDock": 1
+        },
+        "texture/village_house.tsx": {
+            "scaleInDock": 0.75
+        },
+        "texture/village_villas.tsx": {
+            "scaleInDock": 1
+        },
+        "texture/walls_floor_house.tsx": {
+            "scaleInDock": 0.75
+        },
+        "town_hall.tmx": {
+            "scale": 1.6471774193548387,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 231.91187270501834,
+                "y": 159.97062423500608
+            }
+        },
+        "tree_house.tmx": {
+            "scale": 1.7604687499999998,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 89.1807934676489,
+                "y": 158.19650306203957
+            }
+        }
+    },
+    "last.imagePath": "E:/Magius/projet",
+    "map.height": 20,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 20,
+    "openFiles": [
+        "map.tmx",
+        "market1.tmx",
+        "town_hall.tmx"
+    ],
+    "project": "projet_tiled.tiled-project",
+    "recentFiles": [
+        "town_hall.tmx",
+        "market1.tmx",
+        "map.tmx",
+        "inside_house.tmx",
+        "tree_house.tmx",
+        "market2.tmx",
+        "texture/furniture_house.tsx",
+        "mairie.tmx",
+        "D:/_aa nsi/projet/map.tmx",
+        "texture/city_package_all.tsx",
+        "aventurier_1.tsx",
+        "aventurier_3.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
