@@ -13,7 +13,7 @@ class AnimateSprite(pygame.sprite.Sprite) :
     PERSO_6 = [128, 160, 192, 224, 96]
     PERSO_7 = [128, 160, 192, 224, 192]
     PERSO_8 = [128, 160, 192, 224, 288]
-    
+
     # Couleur nécessaire qui permet d'avoir un fond transparent pour le personnage
     BACK_COLOR = [255, 255, 255] # fond actuel
     BACK_COLOR_1 = [255, 255, 255] # pour fond blanc
