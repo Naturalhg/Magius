@@ -1,4 +1,4 @@
-import pygame, pyscroll, pytmx
+import pygame
 from animation import AnimateSprite # récupère la classe AnimateSprite()
 
 class Player(AnimateSprite) :

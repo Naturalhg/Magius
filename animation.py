@@ -4,7 +4,7 @@ class AnimateSprite(pygame.sprite.Sprite) :
     # Sprites des différents personnages en fonction de leurs pixels
     # Pour changer de personnage, copier les coordonnées du personnage
     # choisi dans la variable PERSO
-    PERSO = [0, 32, 64, 96, 288] # sprite du personnage actuel
+    PERSO = [0, 32, 64, 96, 0] # sprite du personnage actuel
     PERSO_1 = [0, 32, 64, 96, 0]
     PERSO_2 = [0, 32, 64, 96, 96]
     PERSO_3 = [0, 32, 64, 96, 192]

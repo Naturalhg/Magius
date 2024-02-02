@@ -1,5 +1,4 @@
 import pygame
-import time
 
 class Dialog_box() :
     
