@@ -43,12 +43,12 @@ class Map_Manager :
         self.keys_collected = []
         """définition des clés"""
         #récupération des différents lieux qui contiennent des clés
-        tmx_data = pytmx.util_pygame.load_pygame('../map//world.tmx')
-        tmx_data_tree_h = pytmx.util_pygame.load_pygame('../map/tree_house.tmx')
-        tmx_data_inside_h = pytmx.util_pygame.load_pygame('../map/inside_house.tmx')
-        tmx_data_market1 = pytmx.util_pygame.load_pygame('../map/market1.tmx')
-        tmx_data_market2 = pytmx.util_pygame.load_pygame('../map/market2.tmx')
-        tmx_data_town_hall = pytmx.util_pygame.load_pygame('../map/town_hall.tmx')
+        tmx_data = pytmx.util_pygame.load_pygame('map//world.tmx')
+        tmx_data_tree_h = pytmx.util_pygame.load_pygame('map/tree_house.tmx')
+        tmx_data_inside_h = pytmx.util_pygame.load_pygame('map/inside_house.tmx')
+        tmx_data_market1 = pytmx.util_pygame.load_pygame('map/market1.tmx')
+        tmx_data_market2 = pytmx.util_pygame.load_pygame('map/market2.tmx')
+        tmx_data_town_hall = pytmx.util_pygame.load_pygame('map/town_hall.tmx')
         
         #ajout de toutes les clés
         self.add_keys(tmx_data)
@@ -106,7 +106,7 @@ class Map_Manager :
         """Actualise le monde sur la map """
         
         #generation de la carte et règle son zoom
-        tmx_data = pytmx.util_pygame.load_pygame(f'../map/{name}.tmx')
+        tmx_data = pytmx.util_pygame.load_pygame(f'map/{name}.tmx')
         map_data = pyscroll.data.TiledMapData(tmx_data)
         map_layer = pyscroll.orthographic.BufferedRenderer(map_data, self.screen.get_size())
         map_layer.zoom = zoom

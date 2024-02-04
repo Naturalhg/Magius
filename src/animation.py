@@ -30,7 +30,7 @@ class AnimateSprite(pygame.sprite.Sprite) :
         super().__init__() # récupère la classe mère permettant l'introduction des sprites
 
         # variables locales à la classe
-        self.sprite_sheet = pygame.image.load("../sprites/aventurier_1.png") # récupère l'image de l'aventurier
+        self.sprite_sheet = pygame.image.load("sprites/aventurier_1.png") # récupère l'image de l'aventurier
         self.animation_index = 0
         self.clock = 0
         self.images = {
@@ -47,7 +47,7 @@ class AnimateSprite(pygame.sprite.Sprite) :
         self.image.set_colorkey(self.BACK_COLOR)
         self.clock += self.speed * 6
 
-        if self.clock >= 100 :
+        if self.clock >= 80 :
 
             self.animation_index += 1
             if self.animation_index >= len(self.images[name]) :
@@ -63,6 +63,7 @@ class AnimateSprite(pygame.sprite.Sprite) :
             x = i * 32
             image = self.get_image(x, y)
             images.append(image)
+        images.append(images[1])
 
         return images
 

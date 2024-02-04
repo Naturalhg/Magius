@@ -17,12 +17,12 @@ class Dialog_box() :
                         ["Bien joué ! Vous avez trouvé toutes les clés"],
                         ["Vous avez trouvé toutes les clés !", "Que peuvent-elles bien ouvrir..."]
                         ]
-        self.box = pygame.image.load('../dialogs/boxes/dialog_box.png') #récupère la bulle de discussion
+        self.box = pygame.image.load('dialogs/boxes/dialog_box.png') #récupère la bulle de discussion
         self.box = pygame.transform.scale(self.box, (1200, 210))
         self.texts = []
         self.text_index = 0
         self.letter_index = 0
-        self.font = pygame.font.Font('../dialogs/polices/dialogs1.ttf', 48) #récupère la police d'écriture
+        self.font = pygame.font.Font('dialogs/polices/dialogs1.ttf', 48) #récupère la police d'écriture
         self.lecture = False
         self.end_text = False
         

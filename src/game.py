@@ -102,7 +102,7 @@ class Game() :
     def run(self) :
         """Lance le jeu à l'aide des méthodes de la classe game et gère sa fermeture"""
         #generation de la musique
-        self.music = pygame.mixer.Sound("../soundtrack/world_music.ogg")
+        self.music = pygame.mixer.Sound("soundtrack/world_music.ogg")
         self.music.play(-1, 0, 5000)
         
         #boucle du jeu
