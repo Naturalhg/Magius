@@ -3,5 +3,8 @@
         "pygame",
         "pyscroll",
         "pytmx"
+    ],
+    "python.analysis.extraPaths": [
+        "./src"
     ]
 }
