@@ -3,7 +3,7 @@
 Bonjour!
 Merci d'avoir cliqué sur ce projet. Afin de faciliter votre compréhension, voici quelques informations de base:
 
-Ce jeu est en python et utilise les librairies pillow, pyscroll, pygame et pytmx.
+Ce jeu est en python et utilise les librairies pyscroll, pygame et pytmx.
 
 Il a été réalisé durant mon année de terminale, au lycée, et fait partie du genre RPG(role playing game). Il a pour but d'afficher un joueur que l'utilisateur peut déplacer grâce au clavier et qui explore un monde. Dans ce monde, certains bâtiments et certains magasins sont accessibles, c'est-à-dire qu'on peut y entrer et les visiter. Dans la dernière version disponible, le joueur a également une quête décrite à l'intérieur même du jeu.
 
@@ -22,10 +22,6 @@ Installer l'application Tiled sur son ordinateur (https://www.mapeditor.org/down
 Installer l'application VsCode sur son ordinateur et installer l'extension CodeRunner dans VsCode (https://code.visualstudio.com/download).
 
 Après installation, dans le terminal (rechercher ">Terminal" en haut dans la barre de recherche de VsCode) :
-
-Installer pillow :
-
-	pip install pillow
 
 Installer pygame : 
 
